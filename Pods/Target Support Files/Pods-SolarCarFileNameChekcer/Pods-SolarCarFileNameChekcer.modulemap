@@ -1,0 +1,6 @@
+framework module Pods_SolarCarFileNameChekcer {
+  umbrella header "Pods-SolarCarFileNameChekcer-umbrella.h"
+
+  export *
+  module * { export * }
+}
